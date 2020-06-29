@@ -1,0 +1,20 @@
+{
+  "messageVersion": "1.0",
+  "invocationSource": "DialogCodeHook",
+  "userId": "1012602",
+  "sessionAttributes": {
+  },
+  "bot": {
+    "name": "WeatherCatBot",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "outputDialogMode": "Text",
+  "currentIntent": {
+    "name": "CatWeather",
+    "slots": {
+      "city_str": "CHICAGO"
+    },
+    "confirmationStatus": "None"
+  }
+}
